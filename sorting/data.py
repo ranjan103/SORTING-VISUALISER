@@ -1,10 +1,4 @@
-# Script Name     : data.py
-# Author          : Howard Zhang
-# Created         : 14th June 2018
-# Last Modified	  : 14th June 2018
-# Version         : 1.0
-# Modifications	  : 
-# Description     : The struct of data to sort and display.
+
 
 class Data:
     # Total of data to sort
